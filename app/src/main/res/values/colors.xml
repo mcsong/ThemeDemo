@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- md colors -->
+    <!-- https://gist.github.com/daniellevass/b0b8cfa773488e138037 -->
+    <color name="white">#ffffff</color>
+    <color name="colorPrimary">@color/white</color>
+    <color name="colorPrimaryDark">@color/white</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#616161</color>
+
+    <color name="colorBackground">@color/white</color>
+
+</resources>
